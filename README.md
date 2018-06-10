@@ -11,6 +11,15 @@ I created an experiment where a coin is tossed 20 times and 5 heads are observed
 
 *	**Python Packages Used**: Anaconda.
 
+# How To Run Locally:
+
+*	**Install**: Python 3.
+
+*	**Install**: Anaconda 5.2.
+
+*	**Install**: pymc3.
+
+*	**Open**: "Alvin Lawson- Data Incubator Assignment.ipynb".
 
 # Question:
 
