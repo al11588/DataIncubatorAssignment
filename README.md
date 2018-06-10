@@ -42,4 +42,6 @@ underlying assumptions?
 
 # Answer:
 
-* Bayes Rule finds the probability of an event based on the previous information related from that event. This posterior sampling compares to hypothesis testing since we are making an educated guess to find the results of 20 tosses when observing 5 heads. Eventually helping us to compare it to the null Hypothesis. The underlying assumption is that we make 20 tosses and we observe 5 heads.
+* Bayes Rule finds the probability of an event based on the previous information related from that event. This [posterior sampling] compares to hypothesis testing since we are making an educated guess to find the results of 20 tosses when observing 5 heads. Eventually helping us to compare it to the null Hypothesis. The underlying assumption is that we make 20 tosses and we observe 5 heads.
+
+[posterior sampling]:https://github.com/al11588/AlvinLawson---Data-Incubator-Assignment
