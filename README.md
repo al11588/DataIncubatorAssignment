@@ -9,7 +9,7 @@ I created an experiment where a coin is tossed 20 times and 5 heads are observed
 # Programming Stack: 
 *	**Languages Used**: Python.
 
-*	**Python Packages Used**: Anaconda.
+*	**Python Packages Used**: Anaconda, Pymc3, Numpy, Scipy, Matplotlib, Seaborn.
 
 # How To Run Locally:
 
