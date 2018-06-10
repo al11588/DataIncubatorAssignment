@@ -4,6 +4,9 @@
 
 I created a 
 
+![Image Of Test](https://raw.githubusercontent.com/al11588/AlvinLawson---Data-Incubator-Assignment/alvinbranch/B04958_02_01.png?token=AFM1uC0Vor0z1m4bCGfS7_Q9c5sjClDkks5bJpJRwA%3D%3D)
+
+
 # Question:
 
 * **Hypothesis Testing**: Let’s talk about t-tests, p-values. How are they
