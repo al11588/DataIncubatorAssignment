@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AlvinLawson---Data-Incubator-Assignment
-=======
 # Data Incubator Assignment
 
 # Description:
