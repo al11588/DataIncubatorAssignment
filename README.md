@@ -21,6 +21,8 @@ I created an experiment where a coin is tossed 20 times and 5 heads are observed
 
 *	**Open**: "Alvin Lawson- Data Incubator Assignment.ipynb".
 
+*	**Run**: Press Run.
+
 # Question:
 
 * **Hypothesis Testing**: Let’s talk about t-tests, p-values. How are they
