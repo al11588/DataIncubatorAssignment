@@ -1,8 +1,12 @@
 # Data Incubator Assignment
 
+# Description:
+
+I created a 
+
 # Question:
 
-1. Hypothesis Testing: Let’s talk about t-tests, p-values. How are they
+* **Hypothesis Testing**: Let’s talk about t-tests, p-values. How are they
 related? What is it telling you? How does it relate to precision-recall?
 What are the underlying assumptions?
 
@@ -12,7 +16,7 @@ Hypothesis testing tests the outcomes of an experiment to see if there are any i
 
 # Question:
 
-2. Bayesian posterior inference: Explain Bayes’ Rule. Write some code to
+* **Bayesian posterior inference**: Explain Bayes’ Rule. Write some code to
 actually perform posterior sampling. Work out an example using conjugate
 priors. How does this compare with hypothesis testing? What are the
 underlying assumptions?
