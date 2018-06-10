@@ -1,4 +1,4 @@
-# AlvinLawson---Data-Incubator-Assignment
+# Data Incubator Assignment
 
 # Question:
 
