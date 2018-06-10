@@ -2,9 +2,14 @@
 
 # Description:
 
-I created a 
+I created an experiment where a coin is tossed 20 times and 5 heads are observed. 
 
 ![Image Of Test](https://raw.githubusercontent.com/al11588/AlvinLawson---Data-Incubator-Assignment/alvinbranch/B04958_02_01.png?token=AFM1uC0Vor0z1m4bCGfS7_Q9c5sjClDkks5bJpJRwA%3D%3D)
+
+# Programming Stack: 
+*	**Languages Used**: Python.
+
+*	**Python Packages Used**: Anaconda.
 
 
 # Question:
