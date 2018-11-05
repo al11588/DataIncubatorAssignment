@@ -1,8 +1,8 @@
-# Coin Experiment
+# How to create a coin toss experiment in Python? 
 
 # Description:
 
-I created an experiment where a coin is tossed 20 times and 5 heads are observed. 
+This experiment involves a coin being tossed 20 times where 5 heads are observed. 
 
 ![Image Of Test](https://github.com/al11588/HowToCreateCoinTossExperiment/blob/master/image.png)
 
