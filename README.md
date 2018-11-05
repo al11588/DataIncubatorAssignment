@@ -19,6 +19,6 @@ This experiment involves a coin being tossed 20 times where 5 heads are observed
 
 *	**Install**: pymc3.
 
-*	**Open**: "Alvin Lawson- Data Incubator Assignment.ipynb".
+*	**Open**: "Howtocreatcointossexperiment.ipynb".
 
 *	**Run**: Press Run.
