@@ -19,6 +19,6 @@ This experiment involves a coin being tossed 20 times where 5 heads are observed
 
 *	**Install**: pymc3.
 
-*	**Open**: "Howtocreatcointossexperiment.ipynb".
+*	**Open**: "Howtocreatecointossexperiment.ipynb".
 
 *	**Run**: Press Run.
