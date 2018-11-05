@@ -4,7 +4,7 @@
 
 I created an experiment where a coin is tossed 20 times and 5 heads are observed. 
 
-![Image Of Test](https://raw.githubusercontent.com/al11588/DataIncubatorAssignment/master/B04958_02_01.png?token=AFM1uOISedJjZdQbm385V0wM4FnwOQriks5bJxlYwA%3D%3D)
+![Image Of Test](https://github.com/al11588/HowToCreateCoinTossExperiment/blob/master/image.png)
 
 # Programming Stack: 
 *	**Languages Used**: Python.
