@@ -1,4 +1,4 @@
-# Data Incubator Assignment
+# Coin Experiment
 
 # Description:
 
